@@ -22,6 +22,5 @@ ETL Pipelines: Developed pipelines for Extracting, Transforming, and Loading dat
 
 
 Data Modeling: Created fact and dimension tables designed for efficient analytical querying and reporting.
-Does this look good now?
 
 
